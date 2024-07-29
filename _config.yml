@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Erfan's Homepage"
 title_separator          : "-"
 name                     : &name "Erfan Rezaei Mayahi-Nejad"
-description              : &description "Prospective M.Sc. Student at LSE"
+description              : &description "M.Sc. Student at LSE"
 url                      : https://erfanrmn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ErfanRMN/erfanrmn.github.io"
@@ -21,14 +21,14 @@ repository               : "ErfanRMN/erfanrmn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-   avatar           : "profile.png"
-   name             : "Erfan Rezaei Mayahi-Nejad"
-   pronouns         : # example: "he/him"
-   bio              : " M.Sc. Student at LSE"
-   location         : "Tehran, Iran"
-   employer         : "London School of Economics"
-   uri              : # URL
-   email            : "erfan1380@gmail.com"
+  avatar           : "profile.png"
+  name             : "Erfan Rezaei Mayahi-Nejad"
+  pronouns         : # example: "he/him"
+  bio              : " M.Sc. Student at LSE"
+  location         : "Tehran, Iran"
+  employer         : "London School of Economics"
+  uri              : # URL
+  email            : "erfan1380@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-   github           : "ErfanRMN"
+  github           : "ErfanRMN"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-   linkedin         : "ErfanRMN"
+  linkedin         : "ErfanRMN"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
