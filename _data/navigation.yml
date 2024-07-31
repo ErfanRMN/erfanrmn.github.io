@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/12oZ35N_YOFhP99vvyyb6GwQCDhnAvTTN/view?usp=sharing
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
 
  # - title: "Teaching"
  #   url: /teaching/    
