@@ -3,20 +3,14 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/1WYLlOT3vkZgEVOpwn62TwNYWmYF3WfC_/view?usp=sharing
 
+  - title: "Codes"
+    url: /codes/
+
+  - title: "Research"
+    url: /research/
+
   - title: "Presentations"
     url: /presentations/    
-
- # - title: "Teaching"
- #   url: /teaching/    
     
   - title: "Gallery"
     url: /gallery/
-        
-  - title: "Codes"
-    url: /codes/
-    
- # - title: "CV"
- #   url: /cv/
-    
- # - title: "Guide"
- #   url: /markdown/
