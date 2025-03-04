@@ -6,11 +6,14 @@ main:
   - title: "Codes"
     url: /codes/
 
-  - title: "Research"
-    url: /research/
+  - title: "TAships"
+    url: /TAships/    
+
+  #- title: "Research"
+  #  url: /research/
 
   - title: "Presentations"
     url: /presentations/    
     
-  - title: "Gallery"
-    url: /gallery/
+  #- title: "Gallery"
+  #  url: /gallery/
