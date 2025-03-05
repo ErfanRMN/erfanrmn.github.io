@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "TAships"
+permalink: /TAships/
 author_profile: true
 ---
 
