@@ -9,110 +9,124 @@ author_profile: true
 
 Below is a list of courses I have served as a Teaching Assistant (TA) for:
 
-<style>
-  .persian-green {
-    background-color: #00A693;
-    color: white; /* Ensure text is readable */
-    text-align: center;
-  }
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-rgzn{background-color:#00A880;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-za8z{background-color:#00a880;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
 
-<table>
+<table class="tg">
   <thead>
     <tr>
-      <th colspan="4" class="persian-green">Teaching Assistantships</th>
+      <th class="tg-c3ow" colspan="2" rowspan="2">TAships<br>Fall: Aug. - Jan.<br>Winter: Feb. - Jul.</th>
+      <th class="tg-c3ow" colspan="2">2020</th>
+      <th class="tg-c3ow" colspan="2">2021</th>
+      <th class="tg-c3ow" colspan="2">2022</th>
+      <th class="tg-c3ow" colspan="2">2023</th>
     </tr>
     <tr>
-      <th>Semester</th>
-      <th>Course Name</th>
-      <th>Professor</th>
-      <th>Year</th>
+      <th class="tg-c3ow">Winter</th>
+      <th class="tg-c3ow">Fall</th>
+      <th class="tg-c3ow">Winter</th>
+      <th class="tg-c3ow">Fall</th>
+      <th class="tg-c3ow">Winter</th>
+      <th class="tg-c3ow">Fall</th>
+      <th class="tg-c3ow">Winter</th>
+      <th class="tg-c3ow">Fall</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Spring Sem.</td>
-      <td>Statistics I</td>
-      <td>Dr. Ali Afzali</td>
-      <td>2020</td>
+      <td class="tg-dvpl" colspan="2">Macroeconomics I</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Fall Sem.</td>
-      <td>Econometrics</td>
-      <td>Dr. Tahereh Seifi</td>
-      <td>2020</td>
+      <td class="tg-dvpl" colspan="2">Microeconomics II</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Spring Sem.</td>
-      <td>Microeconomics I</td>
-      <td>Dr. Ali Afzali</td>
-      <td>2021</td>
+      <td class="tg-dvpl" colspan="2">Microeconomics I</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Fall Sem.</td>
-      <td>Microeconomics II</td>
-      <td>Dr. Tahereh Seifi</td>
-      <td>2021</td>
+      <td class="tg-dvpl" colspan="2">Econometrics</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Spring Sem.</td>
-      <td>Macroeconomics I</td>
-      <td>Prof. F. Jabalameli</td>
-      <td>2022</td>
+      <td class="tg-dvpl" colspan="2">Mathematical Economics</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-rgzn">Dr. Tahereh Seifi</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Fall Sem.</td>
-      <td>Statistics II</td>
-      <td>Prof. A. Souri</td>
-      <td>2022</td>
+      <td class="tg-dvpl" colspan="2">Computer Programming Applications in Economics</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-za8z" colspan="4">Saeed Safari PhD(c)</td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Spring Sem.</td>
-      <td>Computer Programming Applications in Economics</td>
-      <td>Dr. Saeed Tajrishy</td>
-      <td>2023</td>
+      <td class="tg-dvpl" colspan="2">Statistics II</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-rgzn">Dr. Ali Afzali</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
     <tr>
-      <td>Fall Sem.</td>
-      <td>Mathematical Economics</td>
-      <td>Prof. N. Behradmehr</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Spring Sem.</td>
-      <td>Statistics I</td>
-      <td>Prof. A. Vahidmanesh</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Fall Sem.</td>
-      <td>Econometrics</td>
-      <td>Prof. M. Nouri</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Spring Sem.</td>
-      <td>Microeconomics I</td>
-      <td>Prof. M. Nouri</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Fall Sem.</td>
-      <td>Microeconomics II</td>
-      <td>Prof. M. Nouri</td>
-      <td>2022</td>
-    </tr>
-    <tr>
-      <td>Spring Sem.</td>
-      <td>Macroeconomics I</td>
-      <td>Prof. M. Nouri</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Fall Sem.</td>
-      <td>Statistics II</td>
-      <td>Prof. M. Nouri</td>
-      <td>2023</td>
+      <td class="tg-dvpl" colspan="2">Statistics I</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-za8z">Dr. Ali Afzali</td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
+      <td class="tg-8bgf"></td>
     </tr>
   </tbody>
 </table>
