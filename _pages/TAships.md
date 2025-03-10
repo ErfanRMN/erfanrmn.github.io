@@ -5,128 +5,41 @@ permalink: /TAships/
 author_profile: true
 ---
 
-## Teaching Assistantships
-
-Below is a list of courses I have served as a Teaching Assistant (TA) for:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8bgf{border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-.tg .tg-rgzn{background-color:#00A880;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-za8z{background-color:#00a880;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
-.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
-</style>
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-c3ow" colspan="2" rowspan="2">TAships<br>Fall: Aug. - Jan.<br>Winter: Feb. - Jul.</th>
-      <th class="tg-c3ow" colspan="2">2020</th>
-      <th class="tg-c3ow" colspan="2">2021</th>
-      <th class="tg-c3ow" colspan="2">2022</th>
-      <th class="tg-c3ow" colspan="2">2023</th>
-    </tr>
-    <tr>
-      <th class="tg-c3ow">Winter</th>
-      <th class="tg-c3ow">Fall</th>
-      <th class="tg-c3ow">Winter</th>
-      <th class="tg-c3ow">Fall</th>
-      <th class="tg-c3ow">Winter</th>
-      <th class="tg-c3ow">Fall</th>
-      <th class="tg-c3ow">Winter</th>
-      <th class="tg-c3ow">Fall</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Macroeconomics I</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Microeconomics II</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Microeconomics I</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Econometrics</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Mathematical Economics</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-rgzn">Dr. Tahereh Seifi</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Computer Programming Applications in Economics</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-za8z" colspan="4">Saeed Safari PhD(c)</td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Statistics II</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-rgzn">Dr. Ali Afzali</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-    <tr>
-      <td class="tg-dvpl" colspan="2">Statistics I</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-za8z">Dr. Ali Afzali</td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-      <td class="tg-8bgf"></td>
-    </tr>
-  </tbody>
-</table>
+<table style="border-collapse:collapse;border-color:#93a1a1;border-spacing:0" class="tg"><thead>
+<tr><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#efefef;font-family:Georgia, serif !important;font-size:24px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2" rowspan="2">TA Experiences<br>at University of Tehran<br><span style="font-weight:bold">(</span>B<span style="font-weight:bold">S</span>c-l<span style="font-weight:bold">evel)</span></th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#fdf6e3;font-family:Georgia, serif !important;font-size:24px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">2020</th>
+<th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#fdf6e3;font-family:Georgia, serif !important;font-size:24px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">2021</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#fdf6e3;font-family:Georgia, serif !important;font-size:24px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">2022</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#fdf6e3;font-family:Georgia, serif !important;font-size:24px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">2023</th></tr>
+<tr><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Spring</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Fall</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Spring</th>
+<th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Fall</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Spring</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Fall</th>
+<th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Spring</th><th style="background-color:#34696d;border-color:#002b36;border-style:solid;border-width:1px;color:#ffffff;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Fall</th></tr>
+</thead>
+<tbody>
+<tr><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/vh9hqig720chc0341pn0e/ABpnS633-q1Lies3luIrfJs?rlkey=vth1lk6vrr5trwgrhlu0rcisk&st=plaocl13&dl=0" target="_blank" rel="noopener noreferrer">Macroeconomics I</a></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prof. M. Nouri</td></tr>
+<tr><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/oklxdu57y23nkr1dp1vb0/AEehiy_CyDZZ_WEIvVEp2YA?rlkey=jnk0vhw2d181yjb190wym0pli&st=81mjyxkc&dl=0" target="_blank" rel="noopener noreferrer">Microeconomics II</a></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prof. A. Vahidmanesh</td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/oklxdu57y23nkr1dp1vb0/AEehiy_CyDZZ_WEIvVEp2YA?rlkey=jnk0vhw2d181yjb190wym0pli&st=81mjyxkc&dl=0" target="_blank" rel="noopener noreferrer">Microeconomics I</a></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prof. N. Behradmehr</td></tr>
+<tr><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/xz3ti0nouc26wlzvi1x4s/AB_b4ZmIJyx0bux8qOEjjvU?rlkey=2ypkw5a9nzj50r8qn70ep5a26&st=pgv9aeiw&dl=0" target="_blank" rel="noopener noreferrer">Econometrics</a></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prof. A. Souri</td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dr. Saeed Tajrishy</td></tr>
+<tr><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/4pn4efssgd9sf0fkdqlgc/AKulHa3Gb3e5cAsCRKw8K9w?rlkey=pmughv6l8n378cqz56jlgl6io&st=qihgd2bn&dl=0" target="_blank" rel="noopener noreferrer">Mathematical Economics</a></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dr. Tahereh Seifi</td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prof. F. Jabalameli</td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://github.com/ErfanRMN/Python-for-Economics-Series" target="_blank" rel="noopener noreferrer">Programming for Economics</a></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4">Saeed Safari PhD(c)</td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/brb4l0obb8h15vg8d5u67/ACJYU0MUAJN5bkygRl3sF_M?rlkey=lsxjbwvwzi4t2a32qe8oltqiw&st=03z80k2f&dl=0" target="_blank" rel="noopener noreferrer">Statistics II</a></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dr. Ali Afzali</td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#fdf6e3;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Prof. M. Nouri</td></tr>
+<tr><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal" colspan="2"><a href="https://www.dropbox.com/scl/fo/brb4l0obb8h15vg8d5u67/ACJYU0MUAJN5bkygRl3sF_M?rlkey=lsxjbwvwzi4t2a32qe8oltqiw&st=03z80k2f&dl=0" target="_blank" rel="noopener noreferrer">Statistics I</a></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dr. Ali Afzali</td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td><td style="background-color:#7ecbb9;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dr. Tahereh Seifi</td>
+<td style="background-color:#eee8d5;border-color:#002b36;border-style:solid;border-width:1px;color:#002b36;font-family:Georgia, serif !important;font-size:18px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr>
+</tbody></table>
