@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TAships"
+title: "TA Experiences"
 permalink: /TAships/
 author_profile: true
 ---
