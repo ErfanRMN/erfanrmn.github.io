@@ -15,6 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Hello world!
-
-Hey everyone
+# Replicated Papers
