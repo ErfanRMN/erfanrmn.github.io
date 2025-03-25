@@ -9,8 +9,8 @@ main:
   - title: "Teaching Assistance"
     url: /TAships/    
 
-  #- title: "Research"
-  #  url: /research/
+  - title: "Research"
+    url: /research/
 
   #- title: "Presentations"
   #  url: /presentations/    
