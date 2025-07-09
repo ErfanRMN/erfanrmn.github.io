@@ -36,11 +36,13 @@
 @import "print";
 
 /* Custom Vollkorn Font Override - MUST BE AFTER ALL IMPORTS */
-html, body {
+
+/* Apply Vollkorn to main text elements only */
+body {
     font-family: 'Vollkorn', serif !important;
 }
 
-body, p, li, dd, dt, span, div {
+p, li, dd, dt, span, div, td, th {
     font-family: 'Vollkorn', serif !important;
 }
 
@@ -49,33 +51,28 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-.page__content p,
-.page__content li,
-.page__content dl {
+/* Specific Minimal Mistakes theme elements */
+.page__content,
+.author__name,
+.author__bio,
+.page__title,
+.archive__item-title,
+.masthead__menu-item,
+.greedy-nav a {
     font-family: 'Vollkorn', serif !important;
 }
 
-.author__name {
+/* Navigation links */
+.masthead a,
+.greedy-nav__toggle {
     font-family: 'Vollkorn', serif !important;
 }
 
+/* Sidebar text elements */
 .sidebar p,
 .sidebar li {
     font-family: 'Vollkorn', serif !important;
 }
 
-.page__title,
-.archive__item-title {
-    font-family: 'Vollkorn', serif !important;
-}
-
-/* Navigation */
-.greedy-nav a,
-.masthead__menu-item {
-    font-family: 'Vollkorn', serif !important;
-}
-
-/* Override any remaining elements */
-* {
-    font-family: 'Vollkorn', serif !important;
-}
+/* DO NOT override Font Awesome - let it use its default fonts */
+/* The icons will automatically use Font Awesome fonts without any override */
