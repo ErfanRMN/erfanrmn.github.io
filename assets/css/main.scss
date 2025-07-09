@@ -10,23 +10,12 @@
  *
 */
 
-body, html {
-    font-family: 'Vollkorn', serif !important;
-}
-*,
-*::before,
-*::after {
-    font-family: 'Vollkorn', serif !important;
-}
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
-
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -36,15 +25,57 @@ body, html {
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
-
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom Vollkorn Font Override - MUST BE AFTER ALL IMPORTS */
+html, body {
+    font-family: 'Vollkorn', serif !important;
+}
+
+body, p, li, dd, dt, span, div {
+    font-family: 'Vollkorn', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Vollkorn', serif !important;
+    font-weight: 700;
+}
+
+.page__content p,
+.page__content li,
+.page__content dl {
+    font-family: 'Vollkorn', serif !important;
+}
+
+.author__name {
+    font-family: 'Vollkorn', serif !important;
+}
+
+.sidebar p,
+.sidebar li {
+    font-family: 'Vollkorn', serif !important;
+}
+
+.page__title,
+.archive__item-title {
+    font-family: 'Vollkorn', serif !important;
+}
+
+/* Navigation */
+.greedy-nav a,
+.masthead__menu-item {
+    font-family: 'Vollkorn', serif !important;
+}
+
+/* Override any remaining elements */
+* {
+    font-family: 'Vollkorn', serif !important;
+}
