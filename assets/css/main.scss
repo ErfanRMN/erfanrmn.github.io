@@ -10,6 +10,16 @@
  *
 */
 
+body, html {
+    font-family: 'Vollkorn', serif !important;
+}
+*,
+*::before,
+*::after {
+    font-family: 'Vollkorn', serif !important;
+}
+
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
