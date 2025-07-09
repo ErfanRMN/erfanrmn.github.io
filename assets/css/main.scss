@@ -10,8 +10,8 @@
  *
 */
 
-body, html {
-    font-family: 'Noto Serif', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', 'Segoe UI Symbol', serif;
+body, html, p, h1, h2, h3, h4, h5, h6, li, td, th, blockquote {
+    font-family: 'Noto Serif', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', serif !important;
 }
 
 
