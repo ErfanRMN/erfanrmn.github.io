@@ -73,3 +73,8 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar li {
     font-family: 'Vollkorn', serif !important;
 }
+
+/* Scale everything up by 20% (adjust as needed) */
+html {
+    zoom: 1.2; /* 1.2 = 120%, 1.5 = 150%, etc. */
+}
