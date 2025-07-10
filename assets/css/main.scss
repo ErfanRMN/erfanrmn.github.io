@@ -78,3 +78,38 @@ h1, h2, h3, h4, h5, h6 {
 html {
     zoom: 1.2; /* 1.2 = 120%, 1.5 = 150%, etc. */
 }
+
+/* Add this to the end of your main.scss */
+
+/* Remove bold from highlighted text and change highlight color */
+::selection {
+    background-color: #FFFF99; /* Lime yellow */
+    color: #000; /* Keep text black for readability */
+    font-weight: normal !important; /* Remove bold */
+}
+
+::-moz-selection {
+    background-color: #FFFF99; /* Lime yellow */
+    color: #000; /* Keep text black for readability */
+    font-weight: normal !important; /* Remove bold */
+}
+
+/* Alternative highlight colors you might like: */
+/* 
+   Bright yellow: #FFFF00
+   Lime yellow: #FFFF99
+   Light lime: #E6FF99
+   Pastel yellow: #FFFACD
+   Neon yellow: #FFFF33
+   Soft green-yellow: #F0FF99
+*/
+
+/* If the bold is coming from a specific element (not selection), add: */
+.author__name {
+    font-weight: normal !important;
+}
+
+/* Or if it's in a heading */
+h3.author__name {
+    font-weight: normal !important;
+}
