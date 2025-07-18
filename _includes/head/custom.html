@@ -32,3 +32,23 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+
+<!-- Track file downloads -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Only run if gtag is available
+  if (typeof gtag !== 'undefined') {
+    // Track Google Drive and Dropbox links
+    document.querySelectorAll('a[href*="drive.google.com"], a[href*="dropbox.com"]').forEach(link => {
+      link.addEventListener('click', function() {
+        gtag('event', 'file_download', {
+          'file_name': this.textContent.trim(),
+          'file_url': this.href,
+          'event_category': 'downloads'
+        });
+      });
+    });
+  }
+});
+</script>
